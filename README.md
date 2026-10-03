@@ -22,7 +22,7 @@ I like building ambitious software, exploring how systems work, and turning expe
 
 ## Currently working on
 
-<img src="./assets/prometheus-card.svg" alt="PROMĒTHEÚS — in development" width="100%">
+<img src="./assets/projects/prometheus-demo.webp" alt="PROMĒTHEÚS animated demo" width="100%">
 
 **PROMĒTHEÚS** is a private, offline-first knowledge and survival suite designed around maps, search, routing, local data and resilient access to information. It is still **in development**, so there is no public repository yet.
 
@@ -61,11 +61,10 @@ A cross-platform system monitor for **Windows and Fedora Linux** with live metri
 
 ### Backrooms Mod
 
-<img src="./assets/backrooms-card.svg" alt="Backrooms Mod" width="100%">
+<img src="./assets/projects/backrooms-demo.webp" alt="Backrooms Mod animated demo" width="100%">
 
 A Minecraft Backrooms project focused on custom environments, structures, visual effects, world generation and modded gameplay using **Java / NeoForge**.
 
-> The final profile version will use the real in-game capture and animated demo.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
