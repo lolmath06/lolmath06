@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Mathéo Dolmen — Turning ideas into real systems, products, and experiments." width="100%">
+<img src="./assets/banner.png" alt="Mathéo Dolmen — MD" width="100%">
 
 <br>
 
@@ -64,6 +64,8 @@ A cross-platform system monitor for **Windows and Fedora Linux** with live metri
 <img src="./assets/projects/backrooms-demo.webp" alt="Backrooms Mod animated demo" width="100%">
 
 A Minecraft Backrooms project focused on custom environments, structures, visual effects, world generation and modded gameplay using **Java / NeoForge**.
+
+> **Status:** Currently in development.
 
 
 <img src="./assets/divider.svg" width="100%" alt="">
