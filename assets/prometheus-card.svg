@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="310" viewBox="0 0 1180 310" role="img" aria-label="PROMĒTHEÚS — in development">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0b0d13"/><stop offset="1" stop-color="#11121c"/></linearGradient>
+    <linearGradient id="a" x1="0" x2="1"><stop stop-color="#f59e0b"/><stop offset=".55" stop-color="#a855f7"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <pattern id="m" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M0 27H54M27 0V54" stroke="#a855f7" stroke-opacity=".05"/></pattern>
+  </defs>
+  <rect width="1180" height="310" rx="18" fill="url(#bg)" stroke="#313142"/>
+  <rect width="1180" height="310" rx="18" fill="url(#m)"/>
+  <g transform="translate(44 42)" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="0" y="34" fill="#f8fafc" font-size="28" font-weight="800" letter-spacing="2">PROMĒTHEÚS</text>
+    <rect x="206" y="7" width="126" height="34" rx="17" fill="#f59e0b" fill-opacity=".1" stroke="#f59e0b" stroke-opacity=".5"/>
+    <text x="269" y="29" text-anchor="middle" fill="#fbbf24" font-size="12" font-weight="700">IN DEVELOPMENT</text>
+    <text x="0" y="74" fill="#b6bdcc" font-size="16">Offline knowledge &amp; survival suite · maps · search · routing · local-first tools</text>
+    <text x="0" y="104" fill="#7f8799" font-size="14">Private project · no public repository yet</text>
+  </g>
+  <g transform="translate(542 24)">
+    <rect width="594" height="262" rx="14" fill="#0d1117" stroke="#2a2f3b"/>
+    <path d="M32 184 C86 138 122 158 170 120 S256 158 306 107 405 132 458 88 520 76 562 52" fill="none" stroke="#a855f7" stroke-width="2.2" stroke-opacity=".75"/>
+    <path d="M18 68 C88 82 122 42 184 59 S286 88 342 49 438 76 568 36" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-opacity=".45"/>
+    <g fill="#111827" stroke="#6366f1" stroke-opacity=".36">
+      <path d="M58 64l64-18 30 46-19 56-60 14-34-44z"/>
+      <path d="M190 38l70 10 28 42-24 62-62 15-38-54z"/>
+      <path d="M334 72l58-28 52 26 7 61-55 45-67-21z"/>
+      <path d="M470 52l67 18 31 55-33 66-67-9-24-68z"/>
+    </g>
+    <g fill="#c084fc">
+      <circle cx="120" cy="106" r="4"/><circle cx="252" cy="100" r="4"/><circle cx="400" cy="116" r="4"/><circle cx="520" cy="128" r="4"/>
+    </g>
+    <rect x="18" y="18" width="220" height="30" rx="8" fill="#131722" stroke="#2a2f3b"/>
+    <text x="34" y="38" fill="#747d91" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Search maps, places, routes…</text>
+    <rect x="454" y="18" width="122" height="30" rx="8" fill="#f59e0b" fill-opacity=".12" stroke="#f59e0b" stroke-opacity=".48"/>
+    <text x="515" y="38" text-anchor="middle" fill="#fbbf24" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">OFFLINE MAP</text>
+  </g>
+</svg>
